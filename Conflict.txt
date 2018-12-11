@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Branch_A
+=======
+Branch_B
+>>>>>>> origin/Branch_B
